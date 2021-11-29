@@ -5,7 +5,6 @@ A standalone BotBase for the RebornBuddy FFXIV MMO bot to craft the Resplendent 
 
 ## Prerequisites
 
- * Trusts unlocked (in Patch 5.3, level 71 combat class + Holminster Switch unlocked)
  * [RebornBuddy][0] with active license (paid)
  * [LlamaLibrary][1] botbase (free)
  * [Lisbeth][2] with active license (paid)
