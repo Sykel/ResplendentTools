@@ -6,7 +6,7 @@ A standalone BotBase for the RebornBuddy FFXIV MMO bot to craft the Resplendent 
 ## Prerequisites
 
  * [RebornBuddy][0] with active license (paid)
- * [LlamaLibrary][1] botbase (free)
+ * [__LlamaLibrary][1] botbase (free)
  * [Lisbeth][2] with active license (paid)
 
 ## Setup
@@ -29,6 +29,6 @@ RebornBuddy
 You can DM me at Sykel#3522.
 
 [0]: https://www.rebornbuddy.com/ "RebornBuddy"
-[1]: https://github.com/nt153133/LlamaLibrary "LlamaLibrary"
+[1]: https://github.com/nt153133/__LlamaLibrary "LlamaLibrary"
 [2]: https://www.siune.io/ "Lisbeth"
 [4]: https://github.com/Sykel/ResplendentTools/releases/latest "Download"
