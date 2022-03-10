@@ -103,44 +103,44 @@ namespace LlamaBotBases.ResplendentTools
 
         public static async Task<string> GetLisbethResplendentOrder()
         {
-            if (Carpenter && ConditionParser.HasAtLeast(33210, 60) == false && ConditionParser.HasAtLeast(33154, 1) == false)
+                 if (Carpenter && ConditionParser.HasAtLeast(33210, 60) == false && ConditionParser.HasAtLeast(33154, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Carpenter", 33210, 33202, 33194, 33178, 33170, 33162);
+                return await CalculateLisbethResplendentOrder("Carpenter", 33210, 33202, 33194, 33178, 36319, 36311);
             }
 
             if (Blacksmith && ConditionParser.HasAtLeast(33211, 60) == false && ConditionParser.HasAtLeast(33155, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Blacksmith", 33211, 33203, 33195, 33179, 33171, 33163);
+                return await CalculateLisbethResplendentOrder("Blacksmith", 33211, 33203, 33195, 33179, 36320, 36312);
             }
 
             if (Armorer && ConditionParser.HasAtLeast(33212, 60) == false && ConditionParser.HasAtLeast(33156, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Armorer", 33212, 33204, 33196, 33180, 33172, 33164);
+                return await CalculateLisbethResplendentOrder("Armorer", 33212, 33204, 33196, 33180, 36321, 36313);
             }
 
             if (Goldsmith && ConditionParser.HasAtLeast(33213, 60) == false && ConditionParser.HasAtLeast(33157, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Goldsmith", 33213, 33205, 33197, 33181, 33173, 33165);
+                return await CalculateLisbethResplendentOrder("Goldsmith", 33213, 33205, 33197, 33181, 36322, 36314);
             }
 
             if (Leatherworker && ConditionParser.HasAtLeast(33214, 60) == false && ConditionParser.HasAtLeast(33158, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Leatherworker", 33214, 33206, 33198, 33182, 33174, 33166);
+                return await CalculateLisbethResplendentOrder("Leatherworker", 33214, 33206, 33198, 33182, 36323, 36315);
             }
 
             if (Weaver && ConditionParser.HasAtLeast(33215, 60) == false && ConditionParser.HasAtLeast(33159, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Weaver", 33215, 33207, 33199, 33183, 33175, 33167);
+                return await CalculateLisbethResplendentOrder("Weaver", 33215, 33207, 33199, 33183, 36324, 36316);
             }
 
             if (Alchemist && ConditionParser.HasAtLeast(33216, 60) == false && ConditionParser.HasAtLeast(33160, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Alchemist", 33216, 33208, 33200, 33184, 33176, 33168);
+                return await CalculateLisbethResplendentOrder("Alchemist", 33216, 33208, 33200, 33184, 36325, 36317);
             }
 
             if (Culinarian && ConditionParser.HasAtLeast(33217, 60) == false && ConditionParser.HasAtLeast(33161, 1) == false)
             {
-                return await CalculateLisbethResplendentOrder("Culinarian", 33217, 33209, 33201, 33185, 33177, 33169);
+                return await CalculateLisbethResplendentOrder("Culinarian", 33217, 33209, 33201, 33185, 36326, 36318);
             }
 
             return "";
