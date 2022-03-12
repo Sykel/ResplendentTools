@@ -17,7 +17,7 @@ A standalone BotBase for the RebornBuddy FFXIV MMO bot to craft the Resplendent 
 ```
 RebornBuddy
 └── BotBases
-    └── ResplendentTools
+    └── GetResplendentTools
 ```
  4. Start RebornBuddy as normal.
 
