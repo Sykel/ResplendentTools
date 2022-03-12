@@ -26,7 +26,7 @@ RebornBuddy
  It is suggested to run this with penta-melded aesthete gear and Lisbeth consumables set to use Chili Crab HQ and Cunning Craftsman's Syrup HQ. 
 
 # Need help?
-You can DM me at Sykel#3522.
+You can DM me at DomesticWarlord#8512.
 
 [0]: https://www.rebornbuddy.com/ "RebornBuddy"
 [1]: https://github.com/nt153133/__LlamaLibrary "LlamaLibrary"
