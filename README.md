@@ -27,6 +27,7 @@ RebornBuddy
 
 # Need help?
 You can DM me at DomesticWarlord#8512.
+You can also reach Sykel (the original creator of this BotBase) at Sykel#3522.
 
 [0]: https://www.rebornbuddy.com/ "RebornBuddy"
 [1]: https://github.com/nt153133/__LlamaLibrary "LlamaLibrary"
